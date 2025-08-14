@@ -27,7 +27,7 @@ subscription_id="e6273c17-de66-4371-9b4d-70e10906daf0"
 }
 
 variable "rgname" {
-  default = "vcs-cloud-rg"
+  default = "vcs-cloud-rg1"
 }
 
 variable "location" {
